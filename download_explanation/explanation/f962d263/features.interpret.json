@@ -1,0 +1,1 @@
+["PatientID_MeanImputer", "Pregnancies_MeanImputer", "PlasmaGlucose_MeanImputer", "DiastolicBloodPressure_MeanImputer", "TricepsThickness_MeanImputer", "SerumInsulin_MeanImputer", "BMI_MeanImputer", "DiabetesPedigree_MeanImputer", "Age_MeanImputer"]

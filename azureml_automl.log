@@ -1,0 +1,9 @@
+2020-05-18 15:30:04,865 - INFO - 557 : ActivityStarted: GetOutput
+2020-05-18 15:30:04,923 - INFO - 557 : ActivityStarted: GetChildren
+2020-05-18 15:30:05,222 - INFO - 571 : ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=298.32[ms]
+2020-05-18 15:38:57,442 - INFO - 557 : ActivityStarted: GetOutput
+2020-05-18 15:38:57,561 - INFO - 557 : ActivityStarted: GetChildren
+2020-05-18 15:38:57,832 - INFO - 571 : ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=271.0[ms]
+2020-05-18 15:46:50,298 - INFO - 557 : ActivityStarted: GetOutput
+2020-05-18 15:46:50,403 - INFO - 557 : ActivityStarted: GetChildren
+2020-05-18 15:46:50,666 - INFO - 571 : ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=261.97[ms]

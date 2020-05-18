@@ -1,0 +1,66 @@
+2020-05-18 15:15:22,828 - INFO - 191 : Package azureml-train-automl missing from dependencies file.
+2020-05-18 15:15:22,829 - INFO - 197 : Using pinned version: azureml-train-automl==1.5.0.*
+2020-05-18 15:15:22,829 - INFO - 191 : Package pandas missing from dependencies file.
+2020-05-18 15:15:22,830 - INFO - 197 : Using pinned version: pandas>=0.21.0,<=0.23.4
+2020-05-18 15:15:22,830 - INFO - 191 : Package scikit-learn missing from dependencies file.
+2020-05-18 15:15:22,831 - INFO - 197 : Using pinned version: scikit-learn<=0.20.3,>=0.19.0
+2020-05-18 15:15:22,831 - INFO - 191 : Package numpy missing from dependencies file.
+2020-05-18 15:15:22,831 - INFO - 197 : Using pinned version: numpy>=1.16.0,<=1.16.2
+2020-05-18 15:15:22,831 - INFO - 191 : Package py-xgboost missing from dependencies file.
+2020-05-18 15:15:22,832 - INFO - 197 : Using pinned version: py-xgboost<=0.80
+2020-05-18 15:15:22,832 - INFO - 191 : Package inference-schema missing from dependencies file.
+2020-05-18 15:15:22,833 - INFO - 191 : Package holidays missing from dependencies file.
+2020-05-18 15:15:22,833 - INFO - 197 : Using pinned version: holidays==0.9.11
+2020-05-18 15:15:22,833 - INFO - 191 : Package fbprophet missing from dependencies file.
+2020-05-18 15:15:22,833 - INFO - 197 : Using pinned version: fbprophet==0.5
+2020-05-18 15:15:22,834 - INFO - 191 : Package setuptools-git missing from dependencies file.
+2020-05-18 15:15:28,379 - INFO - 530 : Validation service found the data has no errors.
+2020-05-18 15:15:28,379 - INFO - 459 : Start creating parent run.
+2020-05-18 15:15:29,509 - INFO - 474 : [ParentRunID:AutoML_bbc6b1c6-5962-4bce-a4d6-d83207d23af0] Remote run using input X and y.
+2020-05-18 15:15:29,761 - INFO - 487 : Parent Run ID: AutoML_bbc6b1c6-5962-4bce-a4d6-d83207d23af0
+2020-05-18 15:15:29,761 - INFO - 400 : Snapshot_id: 
+2020-05-18 15:15:29,762 - INFO - 409 : Starting a snapshot run (snapshotId : )
+2020-05-18 15:31:53,421 - INFO - 191 : Package azureml-train-automl missing from dependencies file.
+2020-05-18 15:31:53,433 - INFO - 197 : Using pinned version: azureml-train-automl==1.5.0.*
+2020-05-18 15:31:53,434 - INFO - 191 : Package pandas missing from dependencies file.
+2020-05-18 15:31:53,434 - INFO - 197 : Using pinned version: pandas>=0.21.0,<=0.23.4
+2020-05-18 15:31:53,435 - INFO - 191 : Package scikit-learn missing from dependencies file.
+2020-05-18 15:31:53,435 - INFO - 197 : Using pinned version: scikit-learn<=0.20.3,>=0.19.0
+2020-05-18 15:31:53,435 - INFO - 191 : Package numpy missing from dependencies file.
+2020-05-18 15:31:53,435 - INFO - 197 : Using pinned version: numpy>=1.16.0,<=1.16.2
+2020-05-18 15:31:53,435 - INFO - 191 : Package py-xgboost missing from dependencies file.
+2020-05-18 15:31:53,436 - INFO - 197 : Using pinned version: py-xgboost<=0.80
+2020-05-18 15:31:53,436 - INFO - 191 : Package inference-schema missing from dependencies file.
+2020-05-18 15:31:53,437 - INFO - 191 : Package holidays missing from dependencies file.
+2020-05-18 15:31:53,437 - INFO - 197 : Using pinned version: holidays==0.9.11
+2020-05-18 15:31:53,446 - INFO - 191 : Package fbprophet missing from dependencies file.
+2020-05-18 15:31:53,446 - INFO - 197 : Using pinned version: fbprophet==0.5
+2020-05-18 15:31:53,446 - INFO - 191 : Package setuptools-git missing from dependencies file.
+2020-05-18 15:31:54,310 - INFO - 530 : Validation service found the data has no errors.
+2020-05-18 15:31:54,310 - INFO - 459 : Start creating parent run.
+2020-05-18 15:31:54,494 - INFO - 474 : [ParentRunID:AutoML_a670dfdf-3b57-41c7-8c4e-cacde3441dbf] Remote run using input X and y.
+2020-05-18 15:31:54,613 - INFO - 487 : Parent Run ID: AutoML_a670dfdf-3b57-41c7-8c4e-cacde3441dbf
+2020-05-18 15:31:54,613 - INFO - 400 : Snapshot_id: 
+2020-05-18 15:31:54,613 - INFO - 409 : Starting a snapshot run (snapshotId : )
+2020-05-18 15:39:58,667 - INFO - 191 : Package azureml-train-automl missing from dependencies file.
+2020-05-18 15:39:58,668 - INFO - 197 : Using pinned version: azureml-train-automl==1.5.0.*
+2020-05-18 15:39:58,668 - INFO - 191 : Package pandas missing from dependencies file.
+2020-05-18 15:39:58,669 - INFO - 197 : Using pinned version: pandas>=0.21.0,<=0.23.4
+2020-05-18 15:39:58,669 - INFO - 191 : Package scikit-learn missing from dependencies file.
+2020-05-18 15:39:58,669 - INFO - 197 : Using pinned version: scikit-learn<=0.20.3,>=0.19.0
+2020-05-18 15:39:58,669 - INFO - 191 : Package numpy missing from dependencies file.
+2020-05-18 15:39:58,669 - INFO - 197 : Using pinned version: numpy>=1.16.0,<=1.16.2
+2020-05-18 15:39:58,670 - INFO - 191 : Package py-xgboost missing from dependencies file.
+2020-05-18 15:39:58,670 - INFO - 197 : Using pinned version: py-xgboost<=0.80
+2020-05-18 15:39:58,670 - INFO - 191 : Package inference-schema missing from dependencies file.
+2020-05-18 15:39:58,671 - INFO - 191 : Package holidays missing from dependencies file.
+2020-05-18 15:39:58,671 - INFO - 197 : Using pinned version: holidays==0.9.11
+2020-05-18 15:39:58,671 - INFO - 191 : Package fbprophet missing from dependencies file.
+2020-05-18 15:39:58,671 - INFO - 197 : Using pinned version: fbprophet==0.5
+2020-05-18 15:39:58,671 - INFO - 191 : Package setuptools-git missing from dependencies file.
+2020-05-18 15:39:59,591 - INFO - 530 : Validation service found the data has no errors.
+2020-05-18 15:39:59,592 - INFO - 459 : Start creating parent run.
+2020-05-18 15:39:59,834 - INFO - 474 : [ParentRunID:AutoML_328febb0-9527-4fb0-b827-c15595a2daae] Remote run using input X and y.
+2020-05-18 15:39:59,883 - INFO - 487 : Parent Run ID: AutoML_328febb0-9527-4fb0-b827-c15595a2daae
+2020-05-18 15:39:59,883 - INFO - 400 : Snapshot_id: 
+2020-05-18 15:39:59,884 - INFO - 409 : Starting a snapshot run (snapshotId : )
